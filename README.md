@@ -1,2 +1,2 @@
-# mergeconflict
+LOCAL
 Privet, Kak dila ?
