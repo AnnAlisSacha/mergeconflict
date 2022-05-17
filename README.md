@@ -1,2 +1,2 @@
-# mergeconflict
+REMOTE
 Privet, Kak dila ?
